@@ -1,0 +1,7 @@
+
+coverage_service: cobertura_xml
+xcodeproj: PopoverSwiftLibrary.xcodeproj
+scheme: PopoverSwiftLibrary
+output_directory: reports
+ignore:
+  - PopoverSwiftLibraryTests/*
