@@ -1,14 +1,13 @@
 //
-//  PopoverSwiftLibraryTests.swift
+//  SwiftyLibTests.swift
 //  PopoverSwiftLibraryTests
 //
-//  Created by Shahul Hameed Shaik on 21/08/2022.
+//  Created by Shahul Hameed Shaik on 23/08/2022.
 //
 
 import XCTest
-@testable import PopoverSwiftLibrary
 
-class PopoverSwiftLibraryTests: XCTestCase {
+class SwiftyLibTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
